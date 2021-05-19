@@ -1,6 +1,6 @@
 /* whole new css lol */
 :root{
-    -grey-yellow: #aba5a1;
+    -grey-yellow: #291d16;
 }
 .center{
     position: relative;
@@ -15,11 +15,6 @@
     color: white;
     background-color: var(-grey-yellow);
     max-width: 450px;
-    border-radius: 0px;
-    -webkit-border-radius: 0px;
-    -moz-border-radius: 0px;
-    -ms-border-radius: 0px;
-    -o-border-radius: 0px;
 }
 .form-container .group{
     display: flex;
