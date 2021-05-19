@@ -1,9 +1,6 @@
 /* whole new css lol */
 :root{
-    -blue: #3c5e91;
-    -dark-grey: #54687d;
     -grey-yellow: #aba5a1;
-    -white:  #fff5f5;
 }
 .center{
     position: relative;
@@ -16,7 +13,7 @@
     margin: auto;
     z-index: 10;
     color: white;
-    background-color: var(--grey-yellow);
+    background-color: var(-grey-yellow);
     max-width: 450px;
     border-radius: 0px;
     -webkit-border-radius: 0px;
