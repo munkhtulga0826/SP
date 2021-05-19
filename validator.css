@@ -1,8 +1,5 @@
 :root{
-    --black: #222831;
-    --dark-grey: #30475e;
-    --grey-yellow: #f2a365;
-    --grey:  #ececec;
+    --pink: #510d5e;
 }
 .centerer{
     position: relative;
@@ -15,14 +12,13 @@
     margin: auto;
     z-index: 10;
     color: white;
-    background-color: var(--grey-yellow);
-    max-width: 600px;
-    border-radius: 10px;
-    -webkit-border-radius: 10px;
-    -moz-border-radius: 10px;
-    -ms-border-radius: 10px;
-    -o-border-radius: 10px;
-    box-shadow: rgba(48, 65, 121, 0.4) 5px 5px, rgba(48, 65, 121, 0.3) 10px 10px, rgba(48, 65, 121, 0.2) 15px 15px, rgba(48, 65, 121, 0.1) 20px 20px, rgba(48, 65, 121, 0.021) 25px 25px;
+    background-color: var(--pink);
+    max-width: 500px;
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
 }
 .form-container .group{
     display: flex;
