@@ -48,7 +48,7 @@
             </form>
         </div>
     </div>
-    <script src="js/validator.js"></script>
+    <script src="validator.js"></script>
 </body>
 
 </html>
